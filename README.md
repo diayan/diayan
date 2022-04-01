@@ -11,7 +11,7 @@ My name is Diayan Siat, I am a Mobile Software Engineer focused on the Native iO
 - 📫 How to reach me?:  diayansiat@gmail.com
 
 <a href="https://github.com/diayan/diayan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oppongjr&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diayan&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <p align="left"> 
