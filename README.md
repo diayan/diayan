@@ -2,8 +2,7 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=diayan&show_icons=true&theme=dark)
 
-My name is Diayan siat, I am a Mobile Software Engineer focused on the Native iOS and Android platforms. I double as an Android Tutorial Author at [**Raywenderlich**](https://twitter.com/rwenderlich)
-I focus on crafting clean user interfaces and solving user experience problems on the iOS platform. Am also passionate about demystifying complex components into simpler usage scenarios and also building reusable components that can be used by design and development teams.
+My name is Diayan Siat, I am a Mobile Software Engineer focused on the Native iOS and Android platforms. I double as an Android Tutorial Author at [**Raywenderlich**](https://twitter.com/rwenderlich). I enjoy crafting clean user interfaces and solving user experience problems on the iOS platform.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
