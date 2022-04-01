@@ -29,4 +29,9 @@ Am Evans, a ***Senior Native iOS Developer***. I focus on crafting clean user in
 - 👩🏿‍💻 I have been teaching kids how to code here [**clover.africa**](https://www.instagram.com/clover.africa/).
 - 🧘🏿‍♂️ I try to practice yoga twice a week. 
 
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/diayan/count.svg" />
+</p>
+
 Lets connect on [Linkedin](https://www.linkedin.com/in/diayan-siat/)
