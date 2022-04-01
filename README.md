@@ -21,6 +21,8 @@ I focus on crafting clean user interfaces and solving user experience problems o
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=diayan&show_icons=true&theme=dark)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diayan"/>
+
 <p align="left"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/diayan/count.svg" />
