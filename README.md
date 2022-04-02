@@ -6,7 +6,7 @@ My name is Diayan Siat, I am a Mobile Software Engineer focused on the Native iO
 
 - 🔭 I’m currently working on an exciting app for both Mac & iOS. 
 - 🌱 I’m currently learning Testing and Advanced App Architechtures on iOS. 
-- 👴🏿 I have been building mobile apps for over over 3 years. 
+- 👴🏿 I have been building mobile apps with modern languages(Swift and Kotlin) for over over 3 years. 
 - ❤️ I Love Design so i focus on designer to developer ***Handoffs*** and ***Design Tokens*** for iOS.
 - 📫 How to reach me?:  diayansiat@gmail.com
 
