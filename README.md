@@ -4,7 +4,7 @@
 
 My name is Diayan Siat, I am a Mobile Software Engineer focused on the Native iOS and Android platforms. I double as an Android Author at [**Raywenderlich**](https://twitter.com/rwenderlich). I enjoy crafting clean user interfaces and solving user experience problems on the mobile platforms.
 
-- 🔭 Probably fighting fires in xcode. 
+- 🔭 Probably putting out fires in xcode. 
 - 📫 How to reach me?:  diayansiat@gmail.com
 
 <p align="left"> 
